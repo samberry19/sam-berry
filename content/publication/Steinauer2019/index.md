@@ -36,10 +36,10 @@ tags: []
 # Display this page in the Featured widget?
 featured: false
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+ Custom links (uncomment lines below)
+ links:
+ - name: Custom Link
+   url: [[http://example.org]()](https://www.pnas.org/doi/abs/10.1073/pnas.1812044116)]
 
 url_pdf: ''
 url_code: ''
