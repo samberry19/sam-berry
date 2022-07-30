@@ -39,7 +39,7 @@ featured: false
  Custom links (uncomment lines below)
  links:
  - name: Custom Link
-   url: [https://www.pnas.org/doi/abs/10.1073/pnas.1812044116]
+   url: https://www.pnas.org/doi/abs/10.1073/pnas.1812044116
 
 url_pdf: ''
 url_code: ''
@@ -50,11 +50,3 @@ url_slides: ''
 url_source: ''
 url_video: ''
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
