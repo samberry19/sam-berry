@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "HOPS-dependent endosomal fusion required for efficient cytosolic delivery of therapeutic peptides and small proteins"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
