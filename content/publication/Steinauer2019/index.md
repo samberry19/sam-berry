@@ -13,7 +13,7 @@ authors:
 - Alanna Schepartz
 
 date: "2019-01-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1073/pnas.1812044116"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-07-30T00:00:00Z"
@@ -37,9 +37,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
- links:
- - name: Custom Link
-   url: https://www.pnas.org/doi/abs/10.1073/pnas.1812044116
+links:
+- name: Journal link
+  url: https://www.pnas.org/doi/full/10.1073/pnas.1812044116
 
 url_pdf: ''
 url_code: ''
