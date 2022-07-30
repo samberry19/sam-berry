@@ -14,7 +14,7 @@ organizations:
   url: https://www.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study the structure and evolution of proteins.
+bio: Harvard Biophysics PhD candidate studying the structure and evolution of proteins.
 
 # Interests to show in About widget
 interests:
