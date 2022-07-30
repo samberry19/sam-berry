@@ -64,4 +64,4 @@ highlight_name: true
 
 I'm a PhD student in Biophysics at Harvard, where I am interested in how protein sequences encode particular biochemical functionalities and how changes to these sequences over the course of evolution allows for the emergence of new or modified functions. I am currently working with Rachelle Gaudet and Debora Marks on learning the sequence determinants of substrate selectivity in a model bacterial transporter using deep mutagenesis coupled with evolutionary sequence modeling. I am broadly interested in work at the intersection of computational modeling and experimental biochemistry.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "Sam Berry CV Summer 2022.docx" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Sam Berry CV Summer 2022.docx" "newtab" >}}CV{{< /staticref >}}.
