@@ -2,7 +2,7 @@
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
 # See https://wowchemy.com/docs/widget/portfolio/
-widget: post
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: ''
+title: 'Blog'
 subtitle: ''
 
 content:
