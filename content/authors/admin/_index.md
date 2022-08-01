@@ -26,8 +26,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: B.S. in Molecular Biophysics and Biochemistry
+  - course: PhD candidate in Biophysics
     institution: Harvard University
+    year: current
+  - course: B.S. in Molecular Biophysics and Biochemistry
+    institution: Yale University
     year: 2019
 
 # Social/Academic Networking
