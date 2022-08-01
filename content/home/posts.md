@@ -2,7 +2,7 @@
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
 # See https://wowchemy.com/docs/widget/portfolio/
-widget: portfolio
+widget: post
 
 # This file represents a page section.
 headless: true
@@ -15,7 +15,7 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: project
+  page_type: post
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
