@@ -1,5 +1,5 @@
 ---
-title: "HOPS-dependent endosomal fusion required for efficient cytosolic delivery of therapeutic peptides and small proteins"
+title: "High-resolution structures map the metal import pathway in an Nramp transporter"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -13,7 +13,7 @@ authors:
 - Abhishel Singharoy
 
 date: "2022-09-02T00:00:00Z"
-doi: "https://doi.org/10.1073/pnas.1812044116"
+doi: "https://doi.org/10.1101/2022.09.08.507188"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-07-30T00:00:00Z"
@@ -40,7 +40,7 @@ featured: false
 links:
 - name: Journal link
   url: https://www.biorxiv.org/content/10.1101/2022.09.08.507188v1.abstract
-- pdf: PDF
+- name: PDF
   url: https://www.biorxiv.org/content/10.1101/2022.09.08.507188v1.full.pdf
 
 url_pdf: ''
