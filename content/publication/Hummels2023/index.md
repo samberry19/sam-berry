@@ -5,12 +5,14 @@ title: "Coordination of bacterial cell wall and outer membrane biosynthesis"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Shamayeeta Ray
+- Katherine Hummels
 - admin
-- Eric A. Wilson
-- Casey H. Zhang
-- Mrinal Shekhar
-- Abhishek Singharoy
+- Zhaoqi Li
+- Atsushi Taguchi
+- Joseph K Min
+- Suzanne Walker
+- Debora S Marks
+- Thomas G Bernhardt
 
 date: "2023-04-11T00:00:00Z"
 doi: "https://doi.org/10.7554/eLife.84006"
