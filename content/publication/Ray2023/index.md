@@ -22,7 +22,7 @@ publishDate: "2023-04-11T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *eLife*
@@ -39,7 +39,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Journal link
-  url: https://www.biorxiv.org/content/10.1101/2022.09.08.507188v1.abstract
+  url: https://elifesciences.org/articles/84006
 - name: PDF
   url: https://www.biorxiv.org/content/10.1101/2022.09.08.507188v1.full.pdf
 
