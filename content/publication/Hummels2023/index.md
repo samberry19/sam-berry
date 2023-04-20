@@ -15,7 +15,7 @@ authors:
 - Thomas G Bernhardt
 
 date: "2023-02-09T00:00:00Z"
-doi: "https://doi.org/10.7554/eLife.84006"
+#doi: "https://doi.org/10.7554/eLife.84006"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-04-11T00:00:00Z"
@@ -40,7 +40,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: Journal link
-  url: https://www.nature.com/articles/s41586-023-05750-0#citeas
+  url: https://www.nature.com/articles/s41586-023-05750-0
 - name: PDF
   url: https://www.nature.com/articles/s41586-023-05750-0.pdf
 
