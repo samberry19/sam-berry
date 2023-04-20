@@ -9,10 +9,10 @@ authors:
 - admin
 - Zhaoqi Li
 - Atsushi Taguchi
-- Joseph K. Min
+- Joseph K Min
 - Suzanne Walker
-- Debora S. Marks
-- Thomas G. Bernhardt
+- Debora S Marks
+- Thomas G Bernhardt
 
 date: "2023-09-02T00:00:00Z"
 doi: "https://doi.org/10.1038/s41586-023-05750-0"

@@ -10,13 +10,13 @@ authors:
 - Eric A. Wilson
 - Casey H. Zhang
 - Mrinal Shekhar
-- Abhishel Singharoy
+- Abhishek Singharoy
 
-date: "2022-09-02T00:00:00Z"
-doi: "https://doi.org/10.1101/2022.09.08.507188"
+date: "2023-04-11T00:00:00Z"
+doi: "https://doi.org/10.7554/eLife.84006"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-07-30T00:00:00Z"
+publishDate: "2023-04-11T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,8 +25,8 @@ publishDate: "2022-07-30T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *bioRxiv*
-publication_short: In *bioRxiv*
+publication: In *eLife*
+publication_short: In *eLife*
 
 abstract: Transporters of the Nramp (Natural resistance-associated macrophage protein) family import divalent transition metal ions into cells of most organisms. By supporting metal homeostasis, Nramps prevent disorders related to metal insufficiency or overload. Previous studies revealed that Nramps take on a LeuT fold and identified the metal-binding site. We present high- resolution structures of Deinococcus radiodurans Nramp in three stable conformations of the transport cycle revealing that global conformational changes are supported by distinct coordination geometries of its physiological substrate, Mn2+, across conformations and conserved networks of polar residues lining the inner and outer gates. A Cd2+-bound structure highlights differences in coordination geometry for Mn2+ and Cd2+. Measurements of metal binding using isothermal titration calorimetry indicate that the thermodynamic landscape for binding and transporting physiological metals like Mn2+ is different and more robust to perturbation than for transporting the toxic Cd2+ metal.
 
