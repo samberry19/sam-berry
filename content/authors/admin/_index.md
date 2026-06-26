@@ -6,15 +6,15 @@ title: Sam Berry
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Biophysics
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Harvard University
-  url: https://www.harvard.edu/
+- name: Wellcome Sanger Institute
+  url: https://www.sanger.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Harvard Biophysics PhD candidate studying the structure and evolution of proteins.
+bio: Postdoctoral fellow at the Wellcome Sanger Institute studying the mutational landscapes of proteins.
 
 # Interests to show in About widget
 interests:
@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD candidate in Biophysics
+  - course: PhD in Biophysics
     institution: Harvard University
-    year: current
+    year: 2024
   - course: B.S. in Molecular Biophysics and Biochemistry
     institution: Yale University
     year: 2019
@@ -65,6 +65,6 @@ email: ""
 highlight_name: true
 ---
 
-I'm a PhD student in Biophysics at Harvard, where I am interested in the structure, function and evolution of proteins. I am currently working with [Rachelle Gaudet](https://projects.iq.harvard.edu/gaudetlab/home) and [Debora Marks](https://www.deboramarkslab.com/) on learning the sequence determinants of substrate selectivity in a model bacterial transporter using deep mutagenesis coupled with evolutionary sequence modeling. My broader goal is to be a small part of the huge project to link our understanding of the "jigglings and wigglings of atoms" to the scale of evolution over billions of years.
+I am a molecular biophysicist who studies the mutational landscapes of proteins with a focus on bridging high-throughput functional experiments with predictive and interpretable statistical models. The broad goal of my work is ultimately to turn biochemistry from a descriptive to a predictive science in which we can learn and understand protein functions directly from their sequences. I am especially interested in how substrate or ligand specificity is encoded in large families of homologous proteins and in how protein's dynamic personalities shape their fitness landscapes.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Sam Berry CV Summer 2022.docx" "newtab" >}}CV{{< /staticref >}}.
+Currently, I am a postdoctoral fellow in [Ben Lehner's group](https://www.lehnerlab.com/) at the Sanger Institute, where I am working on several projects related to integrating experimental and computational methodologies to learn biochemical principles over vast sequence spaces. Previously, I was a PhD student in Biophysics at Harvard, where I worked with [Rachelle Gaudet](https://projects.iq.harvard.edu/gaudetlab/home) and [Debora Marks](https://www.deboramarkslab.com/) on learning the sequence determinants of substrate selectivity using deep mutagenesis coupled with evolutionary sequence modeling.
